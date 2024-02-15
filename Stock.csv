@@ -1,0 +1,5 @@
+Stock_id,Items,Desc,Qty_in_Stock,Total_Cost_Price,Total_Sale_Amount,Profit,Unit_price,Notes,Date_time_pruchase,unit_price
+0,reserved,reserved,0,0,0,0,0,reserved,,
+1,TOTAL ENGINEOIL,QUARTZ_5000_1LITRE,6,24000,7000,-17000,3500,,09:07.5,
+2,TOTAL ENGINE OIL,QAURTZ 3000 1LITRE,2,15000,10500,-4500,3500,,11:47.2,
+3,MOBILE,MOBILE 1 FULL SYNTHETIC_4LITRE,1,45000,40000,-5000,22000,,13:24.9,22000.0
